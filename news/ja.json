@@ -1,13 +1,13 @@
 {
-    'version': 1,
-    'news': [
+    "version": 1,
+    "news": [
         {
-            'title': 'This is 1st title',
-            'body': 'This is 1st body.',
+            "title": "This is 1st title",
+            "body": "This is 1st body.",
         },
         {
-            'title': 'This is 2nd title',
-            'body': 'This is 2nd body.',
+            "title": "This is 2nd title",
+            "body": "This is 2nd body.",
         },
     ],
 }
